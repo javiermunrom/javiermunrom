@@ -12,7 +12,7 @@ Software Engineer and AI Engineer from Spain 🇪🇸
 
 ## Tech Stack
 
-Python • FastAPI • Scikit-Learn • TensorFlow • PyTorch • Docker • PostgreSQL • React • Git
+Python • Machine Learning • Deep Learning • LLM Applications • AI Agents • Computer Vision • NLP • FastAPI • Scikit-Learn • PyTorch • TensorFlow • Docker • PostgreSQL • React • Git
 
 ## Featured Projects
 
