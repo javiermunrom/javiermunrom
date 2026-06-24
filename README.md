@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Javier 👋
 
-<!--
-**javiermunrom/javiermunrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer and AI Engineer from Spain 🇪🇸
 
-Here are some ideas to get you started:
+🎓 MSc in Data Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Software Engineering Graduate
+
+🤖 Machine Learning, Computer Vision and LLM Applications
+
+📊 Passionate about building intelligent systems that solve real-world problems
+
+## Tech Stack
+
+Python • FastAPI • Scikit-Learn • TensorFlow • PyTorch • Docker • PostgreSQL • React • Git
+
+## Featured Projects
+
+### 🧠 AI Diagnostic System
+
+Computer Vision and Machine Learning system for automated pelvic floor pathology detection from ultrasound images.
+
+### 🤖 AI Applications
+
+Development of LLM-powered applications, AI assistants and intelligent workflows.
+
+### 📈 Data Science Projects
+
+Predictive analytics, machine learning and data visualization projects.
+
+## Contact
+
+📧 Email: [javiermunoz360@gmail.com](mailto:javiermunoz360@gmail.com)
+
+💼 LinkedIn: [linkedin.com/in/javier-muñoz-romero-a982391b9](linkedin.com/in/javier-muñoz-romero-a982391b9)
