@@ -32,4 +32,4 @@ Predictive analytics, machine learning and data visualization projects.
 
 📧 Email: [javiermunoz360@gmail.com](mailto:javiermunoz360@gmail.com)
 
-💼 LinkedIn: [linkedin.com/in/javier-muñoz-romero-a982391b9](linkedin.com/in/javier-muñoz-romero-a982391b9)
+💼 LinkedIn: [Javier Muñoz Romero](https://www.linkedin.com/in/javier-muñoz-romero-a982391b9)
